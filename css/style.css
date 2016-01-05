@@ -16,7 +16,7 @@ body{
 
 }
 #header-menu ul{
-	margin-left: 20%;
+	margin-left: 15%;
 	margin-top: 30px;
 }
 #header-menu ul li{
@@ -56,7 +56,7 @@ color: #F79999;
 #slider{
 	float: left;
 	width: 800px;
-	margin: 50px;
+	margin: 60px;
 }
 .cover-text{
 	position: absolute;
