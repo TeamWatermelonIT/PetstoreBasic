@@ -58,6 +58,17 @@ color: #F79999;
 	width: 800px;
 	margin: 50px;
 }
+.cover-text{
+	position: absolute;
+	color: #876A6A;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	font-size: 20px;
+	padding: 10px 20px;
+	margin: auto;
+}
 #last-promotions{
 	float: left;
 	width: 900px;
