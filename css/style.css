@@ -1,0 +1,112 @@
+body{
+	background-image: url(../images/background.jpeg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	font-family: 'Lobster', cursive;
+}
+.holder{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #FFEBEB;
+}
+#header-menu{
+	width: 100%;
+	height: 50px;
+	background-color: #FFF;
+
+}
+#header-menu ul{
+	margin-left: 20%;
+	margin-top: 30px;
+}
+#header-menu ul li{
+	float: left;
+	list-style: none;
+	margin: 0 170px 0 0;
+}
+#header-menu ul li a{
+	text-decoration: none;
+	color: #876A6A;
+	font-size: 1.1em;
+}
+#header-menu ul li a:hover{
+color: #F79999;
+}
+#side-menu{
+	width: 200px;
+	float: left;
+	height: 1000px;
+	float: left;
+	margin-top: 35px;
+}
+#side-menu h3{
+	color: #705959;
+	font-size: 1.1em;
+}
+#side-menu ul li{
+	list-style: none;
+}
+#side-menu ul li a{
+	text-decoration: none;
+	color: #876A6A;
+}
+#side-menu ul li a:hover{
+color: #F79999;
+}	
+#slider{
+	float: left;
+	width: 800px;
+	margin: 50px;
+}
+#last-promotions{
+	float: left;
+	width: 900px;
+	margin-left: 30px;
+}
+.promo{
+	float: left;
+	width: 250px;
+	height: 200px;
+	margin: 20px;
+}
+.promo a{
+	text-decoration: none;
+	color: #876A6A;
+}
+.promo a:hover{
+color: #F79999;
+}
+#footer{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin: 50px 0;
+}
+#copyright{
+	margin: 10px 50% 10px 10%;
+	float: left;
+	color: #876A6A;
+}
+#social{
+	float: left;
+	margin-top: 20px;
+}
+#social a{
+	text-decoration: none;
+	font-size: 1.1em;
+	color: #876A6A;
+}
+#social a:hover{
+	color: #F79999;
+}
+#facebook{
+	float: left;
+}
+#twitter{
+	float: left;
+	margin-left: 50px;
+}
+#instagram{
+	float: left;
+	margin-left: 50px;
+}
