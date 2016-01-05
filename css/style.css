@@ -9,6 +9,30 @@ body{
 	margin: 0 auto;
 	background-color: #FFEBEB;
 }
+#header-info{
+	width: 100%;
+	height: 150px;
+	background-color: #FFF;
+	border-bottom: 1px solid #876A6A;
+}
+#logo{
+	float: left;
+	margin-left: 10%;
+}
+#phone{
+	float: left;
+	font-size: 2em;
+	margin-left: 20%;
+
+}
+#phone h3{
+	color: #876A6A;
+	font-size: 1.1em;
+}
+#search{
+	float: left;
+	margin-left: 18%;
+}
 #header-menu{
 	width: 100%;
 	height: 50px;
