@@ -1,2 +1,3 @@
 # PetstoreBasic
-PetstoreBasic
+PetstoreBasicVersion
+Страничното меню ще е падащо и ще има още подкатегории (примерно порода, цвят, цена и т.н.)
